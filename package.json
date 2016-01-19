@@ -1,0 +1,25 @@
+{
+  "name": "mithril-tutorial",
+  "version": "1.0.0",
+  "description": "Practice with the Mithril framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanschun/mithril-tutorial.git"
+  },
+  "keywords": [
+    "mithril"
+  ],
+  "author": "Hans Chun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanschun/mithril-tutorial/issues"
+  },
+  "homepage": "https://github.com/hanschun/mithril-tutorial#readme",
+  "dependencies": {
+    "mithril": "^0.2.2-rc.1"
+  }
+}
